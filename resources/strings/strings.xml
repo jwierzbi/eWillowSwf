@@ -1,0 +1,37 @@
+<strings>
+    <string id="AppName">eWillowSwf</string>
+
+    <string id="ShowSecondsTitle">Show seconds</string>
+    <string id="TimeDelimiterTitle">Time delimiter</string>
+    <string id="ShowDateTitle">Show date</string>
+    <string id="DateDelimiterTitle">Date delimiter</string>
+
+    <string id="BackgroundColorTitle">Background Color</string>
+    <string id="ForegroundColorTitle">Foreground Color</string>
+    <string id="HoursColorTitle">Hours' Color</string>
+    <string id="MinutesColorTitle">Minutes' Color</string>
+    <string id="SecondsColorTitle">Seconds' Color</string>
+    <string id="DateColorTitle">Date's Color</string>
+
+    <string id="ColorWhite">White</string>
+    <string id="ColorLightGray">Light Gray</string>
+    <string id="ColorDarkGray">Dark Gray</string>
+    <string id="ColorBlack">Black</string>
+    <string id="ColorRed">Red</string>
+    <string id="ColorDarkRed">Dark Red</string>
+    <string id="ColorOrange">Orange</string>
+    <string id="ColorYellow">Yellow</string>
+    <string id="ColorGreen">Green</string>
+    <string id="ColorDarkGreen">Dark Green</string>
+    <string id="ColorBlue">Blue</string>
+    <string id="ColorDarkBlue">Dark Blue</string>
+    <string id="ColorPurple">Purple</string>
+    <string id="ColorPink">Pink</string>
+
+    <string id="DelimiterColon">Colon</string>
+    <string id="DelimiterSpace">Space</string>
+    <string id="DelimiterNull">None</string>
+    <string id="DelimiterDot">Dot</string>
+    <string id="DelimiterDash">Dash</string>
+    <string id="DelimiterSlash">Slash</string>
+</strings>

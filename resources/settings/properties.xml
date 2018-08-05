@@ -1,0 +1,14 @@
+<properties>
+    <property id="BackgroundColor" type="number">0x000000</property>
+    <property id="ForegroundColor" type="number">0xFFFFFF</property>
+
+    <property id="HoursColor" type="number">0xFFFFFF</property>
+    <property id="MinutesColor" type="number">0xFFFFFF</property>
+    <property id="SecondsColor" type="number">0xFFFFFF</property>
+    <property id="DateColor" type="number">0xFFFFFF</property>
+
+    <property id="ShowSeconds" type="boolean">true</property>
+    <property id="ShowDate" type="boolean">true</property>
+    <property id="TimeDelimiter" type="number">0</property>
+    <property id="DateDelimiter" type="number">1</property>
+</properties>

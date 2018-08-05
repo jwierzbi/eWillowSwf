@@ -1,0 +1,5 @@
+<fonts>
+	<font id="square_BIG" filename="square_90.fnt" filter="0123456789: " />
+	<font id="square_MEDIUM" filename="square_40.fnt" filter="0123456789" />
+	<font id="square_SMALL" filename="square_25.fnt" filter="0123456789:.-/" />
+</fonts>

@@ -1,0 +1,5 @@
+<layout id="WatchFace">
+    <drawable class="Background" />
+    <label id="TimeLabel" x="center" y="center" font="@Fonts.square_BIG" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" />
+    <!--<label id="TimeLabelSec" x="center" y="155" font="@Fonts.square_40" justification="Gfx.TEXT_JUSTIFY_CENTER" />-->
+</layout>
